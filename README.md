@@ -1,5 +1,6 @@
 # free
 A rust implementation of the unix free command, because mac does not have one.
+
 *Note: To be clear this is my first attempt at rust, so this might not be perfect, but it works for what I needed.*
 
 ## Build
